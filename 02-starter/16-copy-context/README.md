@@ -34,6 +34,7 @@
 ## 変更するファイル
 
 - Dockerfile
+- message.txt
 
 ---
 
